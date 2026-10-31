@@ -1,7 +1,7 @@
-{
-  "name": "日日記 — 簡單記帳",
-  "short_name": "日日記",
-  "description": "簡單、實用、離線可用的本地記帳本。三秒記一筆，一眼看清每月收支。",
+﻿{
+  "name": "æ—¥æ—¥è¨˜ â€” ç°¡å–®è¨˜å¸³",
+  "short_name": "æ—¥æ—¥è¨˜",
+  "description": "ç°¡å–®ã€å¯¦ç”¨ã€é›¢ç·šå¯ç”¨çš„æœ¬åœ°è¨˜å¸³æœ¬ã€‚ä¸‰ç§’è¨˜ä¸€ç­†ï¼Œä¸€çœ¼çœ‹æ¸…æ¯æœˆæ”¶æ”¯ã€‚",
   "lang": "zh-Hant-HK",
   "dir": "ltr",
   "start_url": "./",
@@ -14,19 +14,19 @@
   "categories": ["finance", "productivity"],
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-maskable-512.png",
+      "src": "icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

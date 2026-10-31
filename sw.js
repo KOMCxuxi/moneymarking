@@ -1,15 +1,15 @@
-/* 日日記 service worker — offline app shell */
-const CACHE = 'ririji-shell-v2';
+﻿/* æ—¥æ—¥è¨˜ service worker â€” offline app shell */
+const CACHE = 'ririji-shell-flat-v1';
 const ASSETS = [
   './',
   './index.html',
-  './css/style.css',
-  './js/store.js',
-  './js/app.js',
+  './style.css',
+  './store.js',
+  './app.js',
   './manifest.webmanifest',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/apple-touch-icon.png'
+  './icon-192.png',
+  './icon-512.png',
+  './apple-touch-icon.png'
 ];
 
 self.addEventListener('install', function (event) {
