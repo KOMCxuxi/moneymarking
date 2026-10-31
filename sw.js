@@ -1,4 +1,4 @@
-﻿/* æ—¥æ—¥è¨˜ service worker â€” offline app shell */
+/* 日日記 service worker — offline app shell */
 const CACHE = 'ririji-shell-flat-v1';
 const ASSETS = [
   './',
